@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![WhatsApp Image 2025-10-23 at 5 53 58 PM](https://github.com/user-attachments/assets/3b548a05-5fae-4494-a791-76014acaa85a)
+
 
 
 ## RESULT:
